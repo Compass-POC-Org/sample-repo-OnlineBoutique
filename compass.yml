@@ -1,0 +1,17 @@
+name: sample-repo-OnlineBoutique
+id: ari:cloud:compass:47c1257a-ea91-4495-9720-c23840c598f1:component/92bf1eae-8acf-4bef-aa83-abb9413a2579/f2e7e2cc-2257-421c-a780-444230f198da
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Compass-POC-Org/sample-repo-OnlineBoutique
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:python
+  - source:github
+customFields: null
